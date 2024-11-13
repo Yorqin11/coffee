@@ -1,0 +1,260 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+body {
+    overflow-x: hidden;
+}
+header{
+    background-color: rgba(243, 215, 183, 1);
+    padding: 22px 74px;
+}
+nav{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+}
+.ull{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.baner{
+    background-color: rgba(243, 215, 183, 1);
+}
+
+.banner {
+    background-color: rgba(243, 215, 183, 1);
+}
+
+.div-banner {
+    display: flex;  
+    gap: 265px;
+}
+
+.baner-anim{
+    display: flex;  
+    gap: 265px;
+}
+.baner-in{
+    margin-left: 80px;
+}
+
+.div-banner2 h1 {
+    font-size: 64px;
+    width: 447px;
+    height: 150px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.div-box img {
+    display: flex;
+    margin-top: 160px;
+    margin-left: 55px;
+}
+
+.baner-in h1{
+    font-size: 64px;
+    width: 447px;
+    height: 150px;
+    font-weight: 700;
+    margin-top: 130px;
+    
+}
+
+.div-banner2 p {
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 464px;
+    height: 72px;
+    margin-left: 50px;
+}
+
+.baner-in p{
+    margin-top: 47px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 464px;
+    height: 72px;
+}
+.baner-in button{
+    width: 193px;
+    height: 51px;
+    background-color: rgba(10, 119, 95, 1);
+    border-radius: 100px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    border: none;
+    margin-top: 47px;
+}
+
+
+.img1{
+    margin-top: 100px;
+    position: relative;
+}
+.img2{
+    margin-top: 60px;
+    position: absolute;
+    right: 40%;
+    top: 0%;
+    bottom: 0%;
+}
+
+
+.container h1{
+    font-size: 50px;
+    font-weight: 700;   
+    text-align: center;
+    margin-top: 38px;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+}
+.box1 img{
+    margin-top: 42px;
+}
+.in-box1{
+    margin-left: 118px;
+}
+.in-box1 h3{
+    margin-top: 163px;
+    color: rgba(51, 51, 51, 1);
+    font-size: 48px;
+    font-weight: 500;
+}
+.in-box1 p{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    width: 454px;
+    height: 68px;
+}
+
+.box2{
+    display: flex;
+    justify-content: center;
+    gap: 118px;
+}
+.in-box2{
+    margin-left: 200px;
+}
+.in-box2 h3{
+    margin-top: 163px;
+    color: rgba(51, 51, 51, 1);
+    font-size: 48px;
+    font-weight: 500;
+}
+.in-box2 p{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    width: 392px;
+    height: 68px;
+}
+
+.box3{
+    display: flex;
+    justify-content: center;
+    gap: 118px;
+}
+.box3 img{
+    margin-right: 90px;
+}
+.in-box3 h3{
+    margin-top: 163px;
+    color: rgba(51, 51, 51, 1);
+    font-size: 48px;
+    font-weight: 500;
+}
+.in-box3 p{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    width: 392px;
+    height: 68px;
+}
+.box4{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.box4 img{
+    width: 452px;
+    margin-left: 80px;
+    margin-bottom: 89px;
+}
+.in-box4{
+    margin-left: 250px;
+}
+.in-box4 h3{
+    margin-top: 163px;
+    color: rgba(51, 51, 51, 1);
+    font-size: 48px;
+    font-weight: 500;
+}
+.in-box4 p{
+    margin-top: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    width: 392px;
+    height: 68px;
+}
+
+
+.foot{
+    height: 160px;  
+    background-color: rgba(243, 215, 183, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 42px;
+}
+.image{
+    margin-left: 30px;
+}
+
+.div-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div-box h3 {
+    display: flex;
+    width: 646px;
+    margin-left: 322px;
+    margin-top: 160px;
+    font-size: 40px;
+}
+
+.div-box {
+    display: flex;
+    width: 646px;
+}
+
+.div-box img {
+    display: flex;
+    margin-top: 160px;
+    margin-left: 55px;
+}
+
+.div-box2 P {
+    display: flex;
+    margin-left: 318px;
+    width: 700px;
+}
